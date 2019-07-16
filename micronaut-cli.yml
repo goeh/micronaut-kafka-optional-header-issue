@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kafka.optional.headers
+---
+testFramework: junit
+sourceLanguage: java
